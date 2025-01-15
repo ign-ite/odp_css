@@ -1,0 +1,15 @@
+.ele {
+	font-size: 28px;
+	font-family: "Helvetica", "Times-New-Roman", sans-serif;
+}
+.first, .second {
+	color: black;
+}
+
+.first {
+	background-color: white;
+}
+
+.second {
+	background-color: yellow;
+}
